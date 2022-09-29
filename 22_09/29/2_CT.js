@@ -8,7 +8,6 @@
 // s의 길이는 8000이하입니다.
 // n은 1 이상, 25이하인 자연수입니다.
 
-
 // 첫번째 오답
 function solution(s, n) {
   let list = Array.from(s).map((val, i) => {
